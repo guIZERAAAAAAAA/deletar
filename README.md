@@ -27,3 +27,11 @@ FRONT
 
 npm i vite@latest .
 npm i react-router-dom
+
+///
+
+Para abrir o bash no termnial de cada pasta , porque se nao da pal 
+
+primeiro ,faz a pasta back e front 
+Segundo , clica na pasta e vai em  " Open in integrate terminal   "
+terceiro , depois select default Profile
