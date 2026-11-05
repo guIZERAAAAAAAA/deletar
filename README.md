@@ -12,9 +12,10 @@ router
 service
 index
 
-**npm is** 
+**npm is**  Back
 
 npm init 
+npm i express
 npm i sequelize
 npm i mysql2
 npm i bcrypt
